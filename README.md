@@ -38,10 +38,6 @@ Este proyecto analiza el comportamiento de cancelación para identificar los seg
 - Modelado de datos
 - Análisis de negocio
 
-## 📷 Vista del Dashboard
-
-
-
 ## 📂 Estructura del Repositorio
 
 - data/ → Dataset utilizado
