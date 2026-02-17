@@ -31,14 +31,14 @@ Este proyecto analiza el comportamiento de cancelación para identificar los seg
 2. Incentivar la migración a contratos de mayor duración.
 3. Crear alertas tempranas de riesgo de churn para intervención proactiva.
 
-## 🛠 Herramientas Utilizadas
+## Herramientas Utilizadas
 
 - Power BI
 - DAX
 - Modelado de datos
 - Análisis de negocio
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 - data/ → Dataset utilizado
 - dashboard/ → Archivo .pbix
